@@ -6,6 +6,8 @@ I build production-grade software and use AI-assisted engineering workflows to u
 
 Currently at Opskube (Noida), building and maintaining production SaaS and B2B travel applications across the frontend, backend, integrations, deployment, and production support.
 
+On production issues I work closely with clients: handle calls, resolve the problem in a short time, and update them directly, including on WhatsApp, so a fix is not left waiting.
+
 ## Work
 
 **Opskube** · Software Engineer II / Full Stack · Mar 2023–Present
