@@ -4,7 +4,20 @@ Software Engineer II — Full Stack
 
 I build production-grade software and use AI-assisted engineering workflows to understand, debug, refactor, and develop software faster.
 
-Currently at Opskube, working on SaaS and B2B applications across the frontend, backend, integrations, and production support.
+Currently at Opskube (Noida), building and maintaining production SaaS and B2B travel applications across the frontend, backend, integrations, deployment, and production support.
+
+## Work
+
+**Opskube** · Software Engineer II / Full Stack · Mar 2023–Present
+
+- **SYSTACC** — Multi-tenant travel accounting SaaS. Full-stack features, financial workflows, reporting, tenant-aware functionality, production debugging, and legacy application modernization. Next.js, React, TypeScript, Node.js, NestJS, Express, PostgreSQL.
+- **Aadesh Travels** — B2B travel platform for flight, hotel, car, and insurance workflows. Frontend modernization, backend services, integrations, production issue resolution, and deployments. Next.js, React, NestJS, Java.
+- **Aadesh Cabs** — Backend and admin work for a ride-sharing platform: APIs, fare calculation, wallet, referral and promocode functionality, real-time notifications, payments, location tracking, and user management. Java, NestJS, React.
+- **Catapulto** — Refactored legacy React class components to functional components, courier tracking with Yandex Maps, and SEO improvements. React, Yandex Maps.
+
+**Brototype** · Fullstack Developer Intern · Apr 2022–Feb 2023 · Kochi
+
+Full-stack features with React and Node.js, REST APIs, Redux, and realtime communication.
 
 ## Focus
 
