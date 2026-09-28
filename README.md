@@ -40,6 +40,6 @@ TypeScript · JavaScript · Java · React · Next.js · Node.js · NestJS · Pos
 
 [sanjuny07@gmail.com](mailto:sanjuny07@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/sanjay-kumar-2b27b9243)
+[LinkedIn](https://www.linkedin.com/in/sanjay-kumar-se)
 
 Live site: [personal-portfolio-henna-pi-93.vercel.app](https://personal-portfolio-henna-pi-93.vercel.app)
